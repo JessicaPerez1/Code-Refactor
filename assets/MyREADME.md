@@ -1,23 +1,16 @@
-## Intro
+## Purpose of this project
 
 ```
-
-
-```
-
-## User Story
-
-```
-This web app for Horiseon Marketing company shows all services proveded
+This web app for Horiseon Marketing company shows all services provided
 The codebase was refactored to follow accessibility standards
 SO THAT this site is optimized for search engines
 The codebase is more concise and meets SEO requirements
 ```
 
-## Acceptance Criteria
+## What I did
 
 ```
-The webpage meets accessibility standards
+Make sure the webpage meets accessibility standards
 Semantic HTML elements added for clarity
 HTML elements follow a logical structure
 Title element is concise and descriptive
@@ -26,13 +19,13 @@ Styling elements reorganized for clear comprehension and no redundance
 Comments added in HTML and CSS files for a better understanding
 ```
 
-## Review
+## File submission
 
-HTML and CSS files submitted for review by TA's:
+HTML and CSS files submitted for review:
 
 - The URL of the deployed application.
 
-- The URL of the GitHub repository - including a README describing the project.
+- The URL of the GitHub repository
 
 ---
 
