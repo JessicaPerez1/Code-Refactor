@@ -32,7 +32,7 @@ HTML and CSS files submitted for review:
 
 - The URL of the GitHub repository:
 
-![GitHub repository](https://github.com/JessicaPerez1/Code-Refactor.git)
+![GitHub repository](https://jessicaperez1.github.io/Code-Refactor/)
 
 ---
 
