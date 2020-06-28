@@ -19,6 +19,10 @@ Styling elements reorganized for clear comprehension and no redundance
 Comments added in HTML and CSS files for a better understanding
 ```
 
+## Web app screenshot
+
+![web page screenshot](Code-refactor-screenshot.png)
+
 ## File submission
 
 HTML and CSS files submitted for review:
