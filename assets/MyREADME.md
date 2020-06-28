@@ -27,9 +27,12 @@ Comments added in HTML and CSS files for a better understanding
 
 HTML and CSS files submitted for review:
 
-- The URL of the deployed application.
+- The URL of the deployed application:
+  ![Deployed app URL](https://jessicaperez1.github.io/Code-Refactor/)
 
-- The URL of the GitHub repository
+- The URL of the GitHub repository:
+
+![GitHub repository](https://github.com/JessicaPerez1/Code-Refactor.git)
 
 ---
 
